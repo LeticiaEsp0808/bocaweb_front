@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
+body{
+  background-color: #FFF4DD;
+}
+body text{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  background-color: #f5e8cd;
+}
+.numoda{
+  background-color: #bbb096;
+}
+.bold{
+  font-weight: 700;
+}
+.nome{
+  color: #F36D10;
+  font-weight: 700;
+}
+.user{
+  font-weight: 700;
+  color: #8b542d;
+}
+.background{
+width: 1345px;
+height: 150px;
+left: 0px;
+top: 0px;
+background: #4D3B2F;
+box-shadow: -5px 4px 24px 8px rgba(0, 0, 0, 0.25);
+}
+.flex{
+  margin-top: 10px;
+  position: absolute;
+  display: flex;
+}
+.logo img{
+  width: 300px;
+  height: 130px;
+  
+}
+.titulo{
+  margin-top: 8px;
+  margin-left: 10px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 50px;
+
+color: #FFFFFF;
+}
+.usuario{
+  color: pink;
+}
+.lista{
+  margin: 30px;
+  padding-bottom: 50px;
+  padding-top: 30px;
+}
+.input input{
+  box-shadow: 0 0 0 0;
+  border: 0 none;
+  outline: 0;
+  border-radius: 3px;
+  width: 250px;
+  height: 40px;
+  
+
+}
+.input{
+  padding-left: 500px;
+  padding-top: 45px;
+  width: 300px;
+}
+.container{
+  width: 1345px;
+  height: 70px;
+  left: 0px;
+  top: 0px;
+  background: #4D3B2F;
+}
+.footer p{
+  font-size: 15px;
+  color: #FFF4DD;  
+  margin: 0;
+}
+.footer{
+  padding-left: 285px;
+  padding-top: 12px;
+}
+.trab{
+  padding-left: 85px;
+}
