@@ -17,9 +17,9 @@ return(
                     <input name="busca" type="text" class="search" value={busca} 
                     placeholder="O que deseja buscar?" onChange={buscaODA}></input>
                 </div>
+
             </div>
-            
-            <div className='background'/>
+                <div className='background'/>
         </body>
     </html>
 )

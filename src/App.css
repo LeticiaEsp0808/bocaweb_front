@@ -22,7 +22,7 @@ body text{
   color: #8b542d;
 }
 .background{
-width: 1345px;
+width: auto;
 height: 150px;
 left: 0px;
 top: 0px;
@@ -74,7 +74,7 @@ color: #FFFFFF;
   width: 300px;
 }
 .container{
-  width: 1345px;
+  width: auto;
   height: 70px;
   left: 0px;
   top: 0px;
